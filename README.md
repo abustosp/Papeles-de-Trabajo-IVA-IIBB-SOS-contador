@@ -1,8 +1,7 @@
 Archivos base para la generación Masiva de papeles de trabajo de IVA e IIBB en SOS-Contador mediante un BOT de UiPath
 #
 ## El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente. 
-#
-##
+
  Breve descripción de la instalación del BOT
 
     ֎ Crearse una cuenta en UiPath (https://www.uipath.com/)
